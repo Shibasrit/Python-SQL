@@ -1,0 +1,16 @@
+In this project, work is done with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like:
+
+    population - The population as of 2015.
+    population_growth - The annual population growth rate, as a percentage.
+    area - The total land and water area.
+
+
+Pandas and matplotlib is used to display results neatly and visualize them because they let us focus on practicing thinking and working in SQL.
+
+Some other GUI based SQL tools which can also be used are 
+
+    1. Mode Analytics
+    2. Periscope Data
+    3. MySQL Workbench
+    4. Jack DB
+ 
